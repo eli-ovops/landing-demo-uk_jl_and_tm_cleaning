@@ -1,0 +1,4 @@
+header{background:#fff;border-bottom:1px solid var(--line)}
+footer{background:#fff;border-top:1px solid var(--line)}
+.logo,.footer-logo{height:58px;background:#fff}
+.logo img,.footer-logo img{transform:translateY(-52px)}

@@ -1,0 +1,6 @@
+2026-08-24 — temporary no-login Chrome rendering notes
+
+- Home page rendered and screenshots were saved at 1440x900 and 390x844.
+- Chrome process output contained a Google registration `DEPRECATED_ENDPOINT` message.
+- This is a browser-process message, not evidence of a website feature failure; it is retained only for audit transparency.
+- Direct https://jlandtmcleaning.co.uk/reviews rendered `404 Not Found` in a separate read-only check.

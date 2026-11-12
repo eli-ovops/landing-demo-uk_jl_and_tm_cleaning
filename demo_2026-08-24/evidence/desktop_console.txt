@@ -1,0 +1,7 @@
+Trying to load the allocator multiple times. This is *not* supported.
+1033108 bytes written to file /Volumes/EXTERNAL/海外落地页/client_uk_jl_and_tm_cleaning/demo_2026-08-24/evidence/desktop.png
+[49033:11990658:0824/134438.567040:ERROR:base/process/process_mac.cc:53] task_policy_set TASK_CATEGORY_POLICY: (os/kern) invalid argument (4)
+[49033:11990658:0824/134438.567067:ERROR:base/process/process_mac.cc:98] task_policy_set TASK_SUPPRESSION_POLICY: (os/kern) invalid argument (4)
+[49033:11990618:0824/134438.576508:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:748] Message 6 rejected by interface blink.mojom.WidgetHost
+[49033:11990618:0824/134438.576596:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:748] Message 7 rejected by interface blink.mojom.WidgetHost
+[49033:11990618:0824/134438.600069:ERROR:chrome/browser/web_applications/externally_managed_app_manager.cc:680] https://mail.google.com/mail/installwebapp?usp=chrome_default from install source 1 failed to install with reason 21

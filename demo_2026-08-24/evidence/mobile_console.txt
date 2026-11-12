@@ -1,0 +1,3 @@
+Trying to load the allocator multiple times. This is *not* supported.
+117590 bytes written to file /Volumes/EXTERNAL/海外落地页/client_uk_jl_and_tm_cleaning/demo_2026-08-24/evidence/mobile.png
+[48960:11989945:0824/134435.083807:ERROR:chrome/browser/web_applications/externally_managed_app_manager.cc:680] https://mail.google.com/mail/installwebapp?usp=chrome_default from install source 1 failed to install with reason 21

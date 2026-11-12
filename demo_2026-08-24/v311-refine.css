@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap');
+
+body{font-family:Outfit,Arial,Helvetica,sans-serif;letter-spacing:-.01em}
+.section-count{display:none}
+.hero-copy>span{color:#f3c2a8;font-size:.7rem;letter-spacing:.11em}
+.hero h1,.results h2,.services h2,.work-strip h2,.contact h2{font-weight:600;letter-spacing:-.075em;text-wrap:balance}
+.hero h1{max-width:690px}
+.hero-copy{padding-left:23px;border-left:2px solid var(--terracotta)}
+.hero-photo{filter:saturate(.78) contrast(1.13) brightness(.88)}
+.results,.work-strip{background:linear-gradient(180deg,#fff 0%,#fbfaf8 100%)}
+.before-after figure:first-child{transform:translateY(32px)}
+.before-after figure:first-child figcaption{background:var(--ink);color:#fff}
+.before-after figure:last-child figcaption{background:var(--terracotta);color:#fff}
+.services li{transition:background .18s ease,padding-left .18s ease}
+.services li:hover{padding-left:14px;background:rgba(200,126,88,.08)}
+.contact-options a:hover{color:var(--terracotta-dark,#9e5f40)}
+@media(max-width:850px){.before-after figure:first-child{transform:none}.hero-copy{padding-left:17px}.services li:hover{padding-left:0;background:transparent}}
+@media(prefers-reduced-motion:reduce){.services li{transition:none}}

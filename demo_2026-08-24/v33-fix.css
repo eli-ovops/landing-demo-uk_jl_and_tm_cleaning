@@ -1,0 +1,3 @@
+/* V3.3 anti-template pass: prose, evidence and service names carry hierarchy. */
+.kicker,.services article>span{display:none}.services article{grid-template-columns:minmax(210px,.8fr) 1.2fr}.services h3{grid-column:1}.services p{grid-column:2}
+@media(max-width:800px){.services article{grid-template-columns:1fr}.services h3,.services p{grid-column:1}}
